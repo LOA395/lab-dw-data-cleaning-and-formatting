@@ -1,4 +1,4 @@
-custateomer,state,gender,education,custateomer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
 QZ44356,Arizona,F,Bachelor,697953.59,0.0,94.0,0.0,Personal Auto,Four-Door Car,1131.464935
 AI49188,Nevada,F,Bachelor,1288743.17,48767.0,108.0,0.0,Personal Auto,Two-Door Car,566.472247
 WW63253,California,M,Bachelor,764586.18,0.0,106.0,0.0,Corporate Auto,SUV,529.881344
@@ -14,6 +14,7 @@ HS14476,Washington,M,College,916206.32,29723.0,80.0,0.0,Personal Auto,Four-Door 
 HD95276,Washington,F,College,473787.17,0.0,130.0,0.0,Personal Auto,SUV,23.820158
 YD87931,Washington,M,Doctor,495165.61,46896.0,35354.0,1.0,Personal Auto,Four-Door Car,31.707317
 NW21079,Washington,F,Master,487938.48,67163.0,61.0,2.0,Personal Auto,Two-Door Car,33.192803
+SP81997,Washington,F,Master,793690.2593445694,41275.0,96.0,0.0,Personal Auto,Four-Door Car,41.122303
 YB66933,Washington,F,Bachelor,538275.2,77552.0,68.0,1.0,Corporate Auto,Four-Door Car,45.215059
 OW15518,Washington,F,College,1595001.95,0.0,87.0,1.0,Personal Auto,Two-Door Car,46.041452
 GP39118,Washington,M,High School or Below,499655.27,71600.0,63.0,0.0,Personal Auto,Two-Door Car,46.158117
@@ -869,6 +870,7 @@ DW96592,California,M,Bachelor,804487.24,71391.0,67.0,0.0,Personal Auto,Four-Door
 MT23134,Oregon,M,High School or Below,532572.45,0.0,73.0,0.0,Personal Auto,Two-Door Car,496.474767
 BM69081,Arizona,M,Bachelor,694752.4,0.0,100.0,0.0,Personal Auto,SUV,925.137143
 MB90871,Oregon,F,College,584741.52,23496.0,77.0,0.0,Special Auto,Four-Door Car,13.164097
+GT62080,Washington,M,High School or Below,793690.2593445694,55561.0,63.0,0.0,Personal Auto,Four-Door Car,227.872071
 QL77686,Nevada,F,College,472478.61,23986.0,119.0,0.0,Corporate Auto,SUV,463.335061
 ON77827,Arizona,F,Master,279022.8,22974.0,71.0,0.0,Personal Auto,Four-Door Car,180.667969
 KP18988,Oregon,F,High School or Below,2153133.28,0.0,101.0,0.0,Personal Auto,Four-Door Car,484.8
